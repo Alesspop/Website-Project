@@ -1,0 +1,17 @@
+@import "./vendor/normalize.scss";
+
+@media (min-width: 768px) { 
+  }
+
+  @media (min-width: 1024px) {
+  }
+
+$primary_font_color: #AB05F1;
+
+h1 {
+    color: $primary_font_color
+}
+
+footer {
+    color: $primary_font_color;
+}
